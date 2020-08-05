@@ -1,4 +1,4 @@
-# Object_detection
+# Object-detection
 Object Detection using YOLOv3
 
 YOLOv3 is the latest variant of a popular object detection algorithm YOLO – You Only Look Once. YOLOv3 is extremely fast in comparison to other object detection algorithms and provides flexibility for tradeoff between speed and accuracy simply by changing the size of the model.
