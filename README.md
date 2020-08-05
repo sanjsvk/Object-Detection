@@ -6,10 +6,6 @@ YOLOv3 is the latest variant of a popular object detection algorithm YOLO – Yo
 Yolo applies a single neural network to the full image. This network divides the image into regions and predicts bounding boxes and probabilities for each region. These bounding boxes are weighted by the predicted probabilities.
 This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster than Fast R-CNN.
 
-Refer https://pjreddie.com/media/files/papers/YOLOv3.pdf for the paper on YOLOv3
-@article{yolov3,
-  title={YOLOv3: An Incremental Improvement},
-  author={Redmon, Joseph and Farhadi, Ali},
-  journal = {arXiv},
-  year={2018}
-}
+Refer https://pjreddie.com/media/files/papers/YOLOv3.pdf for the original paper on YOLOv3 by Joseph Redmon and Ali Farhadi
+
+
