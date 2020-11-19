@@ -8,4 +8,4 @@ This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster 
 
 Refer https://pjreddie.com/media/files/papers/YOLOv3.pdf for the original paper on YOLOv3 by Joseph Redmon and Ali Farhadi
 
-
+ ![Results](https://github.com/sanjsvk/Object-Detection/blob/master/Zebra_result.png)
